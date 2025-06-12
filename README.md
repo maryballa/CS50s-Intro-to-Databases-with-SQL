@@ -1,14 +1,14 @@
 # CS50s Introduction to Databases with SQL
 
-- **Querying** :
+- **Querying** : <br>
       ProblemSet0: cyberchase
   
-- **Relating** :
+- **Relating** : <br>
       ProblemSet1:
-        -dese
-        -packages
+        - dese
+        - packages
   
-- **Designing** :
+- **Designing** : <br>
       ProblemSet2: connect
   
 - **Writing** : ProblemSet3.
