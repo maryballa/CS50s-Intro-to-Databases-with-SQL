@@ -6,12 +6,15 @@ ProblemSet0: cyberchase
 - **Relating** : <br>
 ProblemSet1: <br>
   - dese
-  -  packages
+  - packages
   
 - **Designing** : <br>
-      ProblemSet2: connect
+ProblemSet2: connect
   
-- **Writing** : ProblemSet3.
+- **Writing** : <br>
+ProblemSet3: <br>
+  - dont-panic
+  - meteorites
  
 - **Viewing** : ProblemSet4.
  
