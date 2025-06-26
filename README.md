@@ -19,6 +19,8 @@ ProblemSet3: <br>
 - **Viewing** : <br>
 ProblemSet4: <br>
   - census
+  - private
+  - bnb
  
 - **Optimizing** : ProblemSet5.
   
