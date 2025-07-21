@@ -1,7 +1,8 @@
 # CS50s Introduction to Databases with SQL
 
 - **Querying** : <br>
-ProblemSet0: cyberchase
+ProblemSet0:
+  - cyberchase
   
 - **Relating** : <br>
 ProblemSet1: <br>
@@ -9,7 +10,8 @@ ProblemSet1: <br>
   - packages
   
 - **Designing** : <br>
-ProblemSet2: connect
+ProblemSet2:
+  - connect
   
 - **Writing** : <br>
 ProblemSet3: <br>
