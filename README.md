@@ -27,6 +27,7 @@ ProblemSet4: <br>
 - **Optimizing** : <br>
 ProblemSet5: <br>
    - snap
+   - harvard
   
 - **Scaling** : ProblemSet6.
 
