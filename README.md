@@ -31,5 +31,8 @@ ProblemSet5: <br>
   
 - **Scaling** : ProblemSet6.
    - sentimental-connect
+   - dont-panic-python
+
+- **Final Project**
 
 
